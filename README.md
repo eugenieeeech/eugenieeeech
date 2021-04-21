@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eugenie Cheng
+- 👋 Hi, I’m Eugenie Cheng Compuer Science Student
 - 👀 I’m interested in Gaming and building something meaningful
 - 🌱 I’m currently learning React, Unity 3D 
 - 💞️ I’m looking to collaborate on building Hololive Fan project(game/web/app)
